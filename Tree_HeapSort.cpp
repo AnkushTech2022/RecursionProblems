@@ -1,4 +1,4 @@
-// maxheapify and minheapify
+// maxheap && minheap concept required
 // heapsort program in c++
 #include<bits/stdc++.h>
 //need heapify and sort.
